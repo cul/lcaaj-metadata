@@ -1,0 +1,614 @@
+Questionnaire_type,Interviewee_ID,LCAAJ_Location,Normalized_Location,Geonames_Variants,Country,Province,Latitude,Longitude,Interviewer_ID,LCAAJ_Region
+Eastern,31357,Jerusalem,Jerusalem,"Adonai-jireh,Aelia Capitolina,Al Quds,Al-Kuds,Al-Qudis,Al-Qudıs,Ariel,Baitul Maqdis,Baitulmuqaddis,B…",Israel,Jerusalem,N 31° 46' 8'',E 35° 12' 58'',UW,
+Eastern,32358,Safed,Safed,,,,,,UW,
+Eastern?,43259,NOT IN ATLAS LIST BUT IN COLLECTION,NOT IN ATLAS LIST BUT IN COLLECTION,,,,,,,
+Eastern,44264,Bucureşti,Bucureşti,,,,,,AI,Transcarpathia
+Eastern,45229,Hunedoara,Hunedoara,,,,,,UW,Transcarpathia
+Eastern,45273,Brăila,Brăila,,,,,,UW,Transcarpathia
+Eastern,45284,Galaţi,Galaţi,,,,,,AI,Transcarpathia
+Eastern,46182,Bonyhád,Bonyhád,,,,,,MS,Transcarpathia
+Eastern,46186,Paks,Paks,,,,,,UW,Transcarpathia
+Eastern,46232,Alba Iulia (Karlsburg),Alba Iulia,,,,,,MS,Transcarpathia
+Eastern,46233,Teiuş,Teiuş,,,,,,UW,Transcarpathia
+Eastern,46238,Cluj (Klausenburg),Cluj (Klausenburg),,,,,,UW,Transcarpathia
+Eastern,46247,Magyar-Fráta,Magyar-Fráta,,,,,,UW,Transcarpathia
+Eastern,46265,Moineşti,Moineşti,,,,,,EG,Transcarpathia
+Eastern,46268,Piatra-Neamţ,Piatra-Neamţ,,,,,,UW,Transcarpathia
+Eastern,46269,Roman,Roman,,,,,,UW,Transcarpathia
+Eastern,46272,Iveşti,Iveşti,,,,,,MS,Transcarpathia
+Eastern,46280,Leova,Leova,,,,,,UW,Southern Ukraine and Romania
+Eastern,46284,Huşi,Huşi,,,,,,MS,Southern Ukraine and Romania
+Eastern,46298,Tighina (Bender),Tighina (Bender),,,,,,MS,Southern Ukraine and Romania
+Eastern,46302,Ackerman,Ackerman,,,,,,UW,Southern Ukraine and Romania
+Eastern,46306,Odessa,Odessa,,,,,,MS,Southern Ukraine and Romania
+Eastern,46327,Nikolayev,Nikolayev,,,,,,MS,Southern Ukraine and Romania
+Eastern,46338,Kakhovka,Kakhovka,,,,,,EG,Southern Ukraine and Romania
+Eastern,47070,Dürmenach,Dürmenach,,,,,,MH,Alsace
+Eastern,47075,Mulhouse,Mulhouse,,,,,,RZ,Alsace
+Western,47084,Endingen,Endingen,,,,,,UW,"Austria, Czechoslovakia, Germany, Holland"
+Western,47086,Gailingen,Gailingen,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,47159,Wopfing,Wopfing,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,47165,Kobersdorf,Kobersdorf,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,47166,Mattersdorf,Mattersdorf,,,,,,VB,"Austria, Czechoslovakia, Germany, Holland"
+Western,47167,Német Keresztúr (Deutsch Kreuz),Német Keresztúr (Deutsch Kreuz),,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,47170,Lackenbach,Lackenbach,,,,,,UW,Transcarpathia
+Eastern,47175,Tet,Tet,,,,,,UW,Transcarpathia
+Eastern,47179,Dunaiska Středa (Dunaszerdahely),Dunaiska Středa (Dunaszerdahely),,,,,,UW,Transcarpathia
+Eastern,47197,Vác,Vác,,,,,,UW,Transcarpathia
+Eastern,47211,Pűspőkladány,Pűspőkladány,,,,,,MS,Transcarpathia
+Eastern,47212,Berettyó-Újfalu,Berettyó-Újfalu,,,,,,UW,Transcarpathia
+Eastern,47219,Hajdúhadház,Hajdúhadház,,,,,,UW,Transcarpathia
+Eastern,47223,Sîg Felső Szék,Sîg Felső Szék,,,,,,UW,Transcarpathia
+Eastern,47225,Tăşnad,Tăşnad,,,,,,MS,Transcarpathia
+Eastern,47228,”near Sighet”,”near Sighet”,,,,,,UW,Transcarpathia
+Eastern,47231,Buciumi (Vármező),Buciumi (Vármező),,,,,,UW,Transcarpathia
+Eastern,47232,Hida,Hida,,,,,,UW,Transcarpathia
+Eastern,47233,Dej,Dej,,,,,,MS,Transcarpathia
+Eastern,47236,Copălnic Mănăştir,Copălnic Mănăştir,,,,,,UW,Transcarpathia
+Eastern,47237,Halmi,Halmi,,,,,,MS,Transcarpathia
+Eastern,47239,(section of Marmarós Sziget),(section of Marmarós Sziget),,,,,,MS,Transcarpathia
+Eastern,47240,Moiseiu,Moiseiu,,,,,,MS,Transcarpathia
+Eastern,47241,Bistriţa,Bistriţa,,,,,,UW,Transcarpathia
+Eastern,47243,Prundu Bârgăului ~ Blrgăului,Prundu Bârgăului ~ Blrgăului,,,,,,UW,Transcarpathia
+Eastern,47246,Rodna,Rodna,,,,,,MS,Transcarpathia
+Eastern,47247,Vişeu(1) de Sus (Ober-Wischau),Vişeu(1) de Sus (Ober-Wischau),,,,,,MS,Transcarpathia
+Eastern,47248,Ruscova,Ruscova,,,,,,MS,Transcarpathia
+Eastern,47256,Gura Humorului,Gura Humorului,,,,,,UW,Transcarpathia
+Eastern,47260,Dorohoi,Dorohoi,,,,,,UW,Transcarpathia
+Eastern,47266,Hârlău/Hîrlău,Hârlău/Hîrlău,,,,,,UW,Transcarpathia
+Eastern,47267,Zamostea,Zamostea,,,,,,RS,Transcarpathia
+Eastern,47268,Botoşani,Botoşani,,,,,,UW,Transcarpathia
+Eastern,47271,Podul Iloaiei,Podul Iloaiei,,,,,,MS,Transcarpathia
+Eastern,47272,Iaşi,Iaşi,,,,,,EG,Southern Ukraine and Romania
+Eastern,47277,Ştefaneşti,Ştefaneşti,,,,,,UW,Southern Ukraine and Romania
+Eastern,47279,Bălţi,Bălţi,,,,,,MS,Southern Ukraine and Romania
+Eastern,47283,Chisinău,Chisinău,,,,,,EG,Southern Ukraine and Romania
+Eastern,47287,Marculeşti,Marculeşti,,,,,,MS,Southern Ukraine and Romania
+Eastern,47288,Unchiteşti,Unchiteşti,,,,,,MS,Southern Ukraine and Romania
+Eastern,47295,Flora,Flora,,,,,,RS,Southern Ukraine and Romania
+Eastern,47298,Balta,Balta,,,,,,MA,Southern Ukraine and Romania
+Eastern?,47301,Found in blue printout only,Found in blue printout only,,,,,,,
+Eastern,47302,Petroverovka (Paplovsk),Petroverovka (Paplovsk),,,,,,MS,Southern Ukraine and Romania
+Eastern,47307,Gvozdavka,Gvozdavka,,,,,,MS,Southern Ukraine and Romania
+Eastern,47308,Krovoye Ožero,Krovoye Ožero,,,,,,MS,Southern Ukraine and Romania
+Eastern,47337,Ingulets-Shirokoye,Ingulets-Shirokoye,,,,,,DG,Southern Ukraine and Romania
+Eastern,47339,Novy Vitebsk,Novy Vitebsk,,,,,,MS,Southern Ukraine and Romania
+Eastern,47393,Rostov,Rostov,,,,,,MA,Southern Ukraine and Romania
+Western,48070,Breisach,Breisach,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,48071,Wintzenheim,Wintzenheim,,,,,,RZ,Alsace
+Eastern,48072,Grussenheim,Grussenheim,,,,,,RZ,Alsace
+Eastern,48074,Oberschaeffolsheim,Oberschaeffolsheim,,,,,,RZ,Alsace
+Eastern,48075,Gerstheim,Gerstheim,,,,,,RZ,Alsace
+Western,48076,Rheinbischofsheim,Rheinbischofsheim,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,48077,Westhoffen,Westhoffen,,,,,,RZ,Alsace
+Eastern,48078,Düppigheim,Düppigheim,,,,,,RZ,Alsace
+Western,48085,Rexingen,Rexingen,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,48104,Ichenhausen,Ichenhausen,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,48108,Hainsfahrt,Hainsfahrt,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,48118,Ingolstadt,Ingolstadt,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,48161,Wien,Wien,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,48171,Bratislava (Pressburg),Bratislava (Pressburg),,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,48172,Vel’ký Mager (Magendorf),Vel’ký Mager (Magendorf),,,,,,UW,Transcarpathia
+Western,48177,Hodonín (Göding),Hodonín (Göding),,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,48200,Cernăuţi,Cernăuţi,,,,,,JB,Southern Ukraine and Romania
+Eastern,48203,Szikszó,Szikszó,,,,,,MS,Transcarpathia
+Eastern,48215,Sátoraljaújhely,Sátoraljaújhely,,,,,,MS,Transcarpathia
+Eastern,48216,(section of Michal'ovce,Michal'ovce,,,,,,MS,Transcarpathia
+Eastern,48217,Košice,Košice,,,,,,MS,Transcarpathia
+Eastern,48220,Kivjažd,Kivjažd,,,,,,MS,Transcarpathia
+Eastern,48223,"(near Mužijovo, Vary, Výlak)","(near Mužijovo, Vary, Výlak)",,,,,,MS,Transcarpathia
+Eastern,48224,Užhorod (Ungwar/Ungvár),Užhorod (Ungwar/Ungvár),,,,,,MA,Transcarpathia
+Eastern,48226,Mukačevo,Mukačevo,,,,,,UW,Transcarpathia
+Eastern,48231,Velký Rakovec,Velký Rakovec,,,,,,MS,Transcarpathia
+Eastern,48232,Buštino,Buštino,,,,,,MS,Transcarpathia
+Eastern,48233,Niž. Apša,Niž. Apša,,,,,,UW,Transcarpathia
+Eastern,48235,Toruń,Toruń,,,,,,UW,Transcarpathia
+Eastern,48243,Żabie,Żabie,,,,,,MS,Transcarpathia
+Eastern,48245,Dora,Dora,,,,,,MS,Transcarpathia
+Eastern,48247,Dolina,Dolina,,,,,,MS,Eastern Galicia
+Eastern,48248,Stanisławów,Stanisławów,,,,,,MS,Eastern Galicia
+Eastern,48250,Tłuste,Tłuste,,,,,,RS,Transcarpathia
+Eastern,48251,Rostochi,Rostochi,,,,,,UW,Transcarpathia
+Eastern,48253,Storojineţ,Storojineţ,,,,,,UW,Transcarpathia
+Eastern,48254,Kołomyja,Kołomyja,,,,,,EG,Eastern Galicia
+Eastern,48256,Zviniace,Zviniace,,,,,,MS,Eastern Galicia
+Eastern,48259,Jagielnica,Jagielnica,,,,,,MS,Eastern Galicia
+Eastern,48260,Kitaygorod,Kitaygorod,,,,,,MS,Transcarpathia
+Eastern,48261,Noua Suliţa,Noua Suliţa,,,,,,MS,Transcarpathia
+Eastern,48263,Lipcani,Lipcani,,,,,,MW,Northern Ukraine
+Eastern,48265,Hotin,Hotin,,,,,,MS,Southern Ukraine and Romania
+Eastern,48266,Kamenets Podol’sky,Kamenets Podol’sky,,,,,,MW,Southern Ukraine and Romania
+Eastern?,48266,NOT IN ATLAS LIST BUT IN COLLECTION,NOT IN ATLAS LIST BUT IN COLLECTION,,,,,,,
+Eastern,48267,Skała,Skała,,,,,,EG,Southern Ukraine and Romania
+Eastern,48268,Shatava,Shatava,,,,,,UW,Southern Ukraine and Romania
+Eastern,48272,Briceva,Briceva,,,,,,MS,Southern Ukraine and Romania
+Eastern,48274,Briceni,Briceni,,,,,,EG,Southern Ukraine and Romania
+Eastern,48276,Ozarintsy,Ozarintsy,,,,,,EG,Southern Ukraine and Romania
+Eastern,48277,Staraya Ušica,Staraya Ušica,,,,,,MS,Southern Ukraine and Romania
+Eastern,48280,Zguriţa,Zguriţa,,,,,,MS,Southern Ukraine and Romania
+Eastern,48281,Soroca,Soroca,,,,,,RS,Southern Ukraine and Romania
+Eastern,48283,Peschanka,Peschanka,,,,,,RS,Southern Ukraine and Romania
+Eastern,48284,Dzygovka,Dzygovka,,,,,,EG,Southern Ukraine and Romania
+Eastern,48286,Tul’chin,Tul’chin,,,,,,UW,Southern Ukraine and Romania
+Eastern,48288,Krasnoye,Krasnoye,,,,,,MW,Southern Ukraine and Romania
+Eastern,48289,Nemirov,Nemirov,,,,,,MS,Southern Ukraine and Romania
+Eastern,48292,Bershad,Bershad,,,,,,EG,Southern Ukraine and Romania
+Eastern,48293,Peschana,Peschana,,,,,,MS,Southern Ukraine and Romania
+Eastern,48294,Verkhovka,Verkhovka,,,,,,JB,Southern Ukraine and Romania
+Eastern,48296,Teplik,Teplik,,,,,,MS,Southern Ukraine and Romania
+Eastern,48297,Gaysin,Gaysin,,,,,,AH,Southern Ukraine and Romania
+Eastern,48300,Tri Dubi,Tri Dubi,,,,,,MS,Southern Ukraine and Romania
+Eastern,48302,Golosvoko,Golosvoko,,,,,,MS,Southern Ukraine and Romania
+Eastern,48309,Tal’noye,Tal’noye,,,,,,MS,Southern Ukraine and Romania
+Eastern,48311,Lyubomirka,Lyubomirka,,,,,,MS,Southern Ukraine and Romania
+Eastern,48324,Kirovograd (Yelizavetgrad),Kirovograd (Yelizavetgrad),,,,,,EG,Southern Ukraine and Romania
+Eastern,48337,Aleksandriya,"Aleksandriya | 51.0893, 48.0862",,,,,,MS,Southern Ukraine and Romania
+Eastern,48354,Dnepropetrovsk (Yekaterinoslav),Dnepropetrovsk (Yekaterinoslav),,,,,,MS,Southern Ukraine and Romania
+Western?,49006,NOT IN ATLAS LIST BUT IN COLLECTION,NOT IN ATLAS LIST BUT IN COLLECTION,,,,,,,
+,49061,Hayange,Hayange,,,,,,AH,Alsace
+Western,49063,Differten,Differten,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49064,Luxembourg,Luxembourg,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,49065,Kirf,Kirf,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49075,Meisenheim,Meisenheim,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49077,Bernkastel-Cues,Bernkastel-Cues,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49079,Bad Kreuznach,Bad Kreuznach,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,49080,Alzey,Alzey,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49081,Rülzheim,Rülzheim,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49082,Langenbrücken,Langenbrücken,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49087,Mainz,Mainz,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49089,Hergershausen,Hergershausen,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49091,Heilbronn,Heilbronn,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49093,Schwäbisch Hall,Schwäbisch Hall,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49095,Walldürn,Walldürn,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49096,Niederstetten,Niederstetten,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49099,Oberaltertheim,Oberaltertheim,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49103,Markt Berolzheim,Markt Berolzheim,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49105,Windsheim,Windsheim,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49114,Nürnberg,Nürnberg,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49117,Schesslitz,Schesslitz,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49121,Regensburg,Regensburg,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,49122,Cham,Cham,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,49128,Tachov,Tachov,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49146,Nové Vši,Nové Vši,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,49154,Humpoletz,Humpoletz,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49162,Brno (Brünn),Brno (Brünn),,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49172,Uherské Hradiště (Ungarisch Hradisch),Uherské Hradiště (Ungarisch Hradisch),,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49175,Holešov,Holešov,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49179,Tropava (Troppau),Tropava (Troppau),,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,49188,Těšín,Těšín,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,49200,Lutowiska,Lutowiska,,,,,,AH,Eastern Galicia
+Eastern,49204,Bukowina,Bukowina,,,,,,EG,Western Galicia
+Eastern,49205,Nowy Sącz,Nowy Sącz,,,,,,MW,Western Galicia
+Eastern,49212,Kurima,Kurima,,,,,,UW,Transcarpathia
+Eastern,49216,Rymanów,Rymanów,,,,,,MW,Western Galicia
+Eastern,49217,Ryglice,Ryglice,,,,,,EG,Western Galicia
+Eastern,49220,Szczawne,Szczawne,,,,,,MS,Western Galicia
+Eastern,49221,Cisna,Cisna,,,,,,MS,Western Galicia
+Eastern?,49223,not in atlas list but in collection and in blue printout but crossed out,not in atlas list but in collection and in blue printout but crossed out,,,,,,,
+Eastern,49224,Ulucz,Ulucz,,,,,,RS,Eastern Galicia
+Eastern,49225,Ustrzyki Dolne,Ustrzyki Dolne,,,,,,MS,Eastern Galicia
+Eastern,49227,Błażowa,Błażowa,,,,,,EG,Western Galicia
+Eastern,49229,Przemyśl,Przemyśl,,,,,,MH,Eastern Galicia
+Eastern,49230,Mościska,Mościska,,,,,,MS,Eastern Galicia
+Eastern,49231,Rybnik,Rybnik,,,,,,EG,Eastern Galicia
+Eastern,49233,Bolechów,Bolechów,,,,,,RS,Eastern Galicia
+Eastern,49235,Drohobycz,Drohobycz,,,,,,RS,Eastern Galicia
+Eastern,49237,Jaworów,Jaworów,,,,,,EG,Eastern Galicia
+Eastern,49242,Kałusz,Kałusz,,,,,,MS,Eastern Galicia
+Eastern,49243,Bołszowce,Bołszowce,,,,,,EG,Eastern Galicia
+Eastern,49245,Strzeliska Nowe,Strzeliska Nowe,,,,,,MS,Eastern Galicia
+Eastern,49246,Rohatyn,Rohatyn,,,,,,MS,Eastern Galicia
+Eastern,49247,Lwów (Lemberg),Lwów (Lemberg),,,,,,MS,Eastern Galicia
+Eastern,49248,Przemyślany,Przemyślany,,,,,,EG,Eastern Galicia
+Eastern,49251,Podhajce,Podhajce,,,,,,MS,Eastern Galicia
+Eastern,49253,Chorostków,Chorostków,,,,,,UW,Eastern Galicia
+Eastern,49254,Wibudów,Wibudów,,,,,,MH,Eastern Galicia
+Eastern,49256,Chodaczków mały,Chodaczków mały,,,,,,RS,Eastern Galicia
+Eastern,49259,Zbaraż,Zbaraż,,,,,,AH,Eastern Galicia
+Eastern,49261,Satanov,Satanov,,,,,,MS,Northern Ukraine
+Eastern,49262,Gorodok,Gorodok,,,,,,RS,Northern Ukraine
+Eastern,49263,Chemerovtsy,Chemerovtsy,,,,,,MS,Northern Ukraine
+Eastern,49264,Volochisk,Volochisk,,,,,,EG,Northern Ukraine
+Eastern,49266,Krasilov,Krasilov,,,,,,MS,Northern Ukraine
+Eastern,49267,Łanowce,Łanowce,,,,,,AH,Northern Ukraine
+Eastern,49271,Zin’kov,Zin’kov,,,,,,MH,Northern Ukraine
+Eastern,49272,Bar,Bar,,,,,,EG,Northern Ukraine
+Eastern,49275,Staraya Sinyava,Staraya Sinyava,,,,,,EG,Northern Ukraine
+Eastern,49276,Letichev,Letichev,,,,,,EG,Northern Ukraine
+Eastern,49278,Ladyh,Ladyh,,,,,,MS,Northern Ukraine
+Eastern,49279,Lyubar,Lyubar,,,,,,MS,Northern Ukraine
+Eastern,49282,Vinnitsa,Vinnitsa,,,,,,MS,Northern Ukraine
+Eastern,49285,Kalinovka,Kalinovka,,,,,,MS,Northern Ukraine
+Eastern,49286,Vakhnovka,Vakhnovka,,,,,,RS,Northern Ukraine
+Eastern,49287,Yanushpol,Yanushpol,,,,,,MS,Northern Ukraine
+Eastern,49288,Berdichev,Berdichev,,,,,,EG,Northern Ukraine
+Eastern,49289,Belopol’ye,Belopol’ye,,,,,,MS,Northern Ukraine
+Eastern,49291,Il’intsy,Il’intsy,,,,,,MS,Northern Ukraine
+Eastern,49293,Monastyrishche,Monastyrishche,,,,,,JW,Northern Ukraine
+Eastern,49296,Volodarka,Volodarka,,,,,,MW,Northern Ukraine
+Eastern,49298,Pavoloch’,Pavoloch’,,,,,,MW,Northern Ukraine
+Eastern,49303,Zvenigorodka,Zvenigorodka,,,,,,MS,Northern Ukraine
+Eastern,49304,Stavishche,Stavishche,,,,,,MS,Northern Ukraine
+Eastern,49305,Tarashcha,Tarashcha,,,,,,RS,Northern Ukraine
+Eastern,49307,Belaya tserkov',Belaya tserkov',,,,,,EG,Northern Ukraine
+Eastern,49312,Shpola,Shpola,,,,,,MS,Northern Ukraine
+Eastern,49317,Rzhishchev,Rzhishchev,,,,,,MS,Northern Ukraine
+Eastern,49324,Cherkassy,Cherkassy,,,,,,MS,Northern Ukraine
+Eastern,49338,Mirgorod,Mirgorod,,,,,,MS,Northern Ukraine
+Western,50062,Kyllburg,Kyllburg,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50067,Eschweiler,Eschweiler,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50069,Köln,Köln,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,50075,Vallendar,Vallendar,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,50077,Bonn,Bonn,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,50082,Frankfurt am Main,Frankfurt am Main,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,50083,Staden,Staden,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50084,Hadamar,Hadamar,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,50085,Wetzlar,Wetzlar,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,50088,Laasphe,Laasphe,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,50091,Alzenau,Alzenau,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50093,Ober Thulpa,Ober Thulpa,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50094,Nieder Ohmen,Nieder Ohmen,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50095,Hindersteinau,Hindersteinau,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50097,Frielendorf,Frielendorf,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50102,Ermershausen,Ermershausen,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50103,Reckendorf,Reckendorf,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,50104,Mellrichstadt,Mellrichstadt,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50107,Eisenach,Eisenach,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50136,Sobědruhy (Soborten),Sobědruhy (Soborten),,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50142,Praha (Prag),Praha (Prag),,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50144,Litoměřice (Leitmeritz),Litoměřice (Leitmeritz),,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50154,Jablonec (Gablonz),Jablonec (Gablonz),,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50156,Trutnov (Trautenau),Trutnov (Trautenau),,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50177,Wansen,Wansen,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,50183,Zabrze,Zabrze,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,50186,Beuthen,Beuthen,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,50190,Oświęcim,Oświęcim,,,,,,MS,Western Galicia
+Western,50191,Katowice (Kattowitz),Katowice (Kattowitz),,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,50192,Sosnowiec,Sosnowiec,,,,,,AI,Western Galicia
+Eastern,50193,Kraków,Kraków,,,,,,MS,Western Galicia
+Eastern,50196,Wolbrom,Wolbrom,,,,,,UW,Northern Poland
+Eastern,50197,Częstochowa,Częstochowa,,,,,,MH,Northern Poland
+Eastern,50199,Szczekociny,Szczekociny,,,,,,EG,Northern Poland
+Eastern,50201,Proszowice,Proszowice,,,,,,MS,Northern Poland
+Eastern,50202,Žabno,Žabno,,,,,,EG,Western Galicia
+Eastern,50204,Jędrzejów,Jędrzejów,,,,,,JB,Northern Poland
+Eastern,50205,Pińczów,Pińczów,,,,,,MS,Northern Poland
+Eastern,50206,Chmielnik,Chmielnik,,,,,,MH,Northern Poland
+Eastern,50212,Dębica,Dębica,,,,,,UW,Northern Poland
+Eastern,50213,Sędziszów,Sędziszów,,,,,,MS,Western Galicia
+Eastern,50216,Gorzyce,Gorzyce,,,,,,MS,Northern Poland
+Eastern,50218,Ostrowiec,Ostrowiec,,,,,,MS,Northern Poland
+Eastern,50221,Rzeszów,Rzeszów,,,,,,MA,Western Galicia
+Eastern,50222,Sieniawa,Sieniawa,,,,,,MS,Northern Poland
+Eastern,50224,Rozwadów,Rozwadów,,,,,,MA,Northern Poland
+Eastern,50225,Biłgoraj,Biłgoraj,,,,,,EG,Northern Poland
+Eastern,50227,Zaklików,Zaklików,,,,,,MA,Northern Poland
+Eastern,50229,Szczebrzeszyn,Szczebrzeszyn,,,,,,MS,Northern Poland
+Eastern,50231,Cieszanów,Cieszanów,,,,,,JB,Eastern Galicia
+Eastern,50235,Tomaszów Lubelski,Tomaszów Lubelski,,,,,,MS,Northern Poland
+Eastern,50236,Uhnów,Uhnów,,,,,,MS,Northern Poland
+Eastern,50237,Zamość,Zamość,,,,,,MH,Northern Poland
+Eastern,50239,Hrubieszów,Hrubieszów,,,,,,EG,Northern Poland
+Eastern,50242,Dobrotwór,Dobrotwór,,,,,,MS,Eastern Galicia
+Eastern,50243,Toporów,Toporów,,,,,,MA,Eastern Galicia
+Eastern,50244,Krystynopol,Krystynopol,,,,,,MA,Eastern Galicia
+Eastern,50246,Koniuchy,Koniuchy,,,,,,MS,Eastern Galicia
+Eastern,50248,Włodzimierz,Włodzimierz,,,,,,MH,Eastern Galicia
+Eastern,50251,Brody,Brody,,,,,,MS,Eastern Galicia
+Eastern,50253,Krzemieniec,Krzemieniec,,,,,,MS,Eastern Galicia
+Eastern,50257,Łuck,Łuck,,,,,,MS,Eastern Galicia
+Eastern,50259,Olyka,Olyka,,,,,,MS,Eastern Galicia
+Eastern,50260,Zaslavl,Zaslavl,,,,,,MA,Northern Ukraine
+Eastern,50262,Ostróg,Ostróg,,,,,,RS,Northern Ukraine
+Eastern,50263,Slavuta,Slavuta,"Slavuta,Slawuta,Sslawuta,Славута",Ukraine,Khmelnytskyi,N 50° 18' 5'',E 26° 51' 54'',MS,Northern Ukraine
+Eastern,50264,Rowne,Rowne,"Eractum,Gorad Rouna,RWN,Rivne,Rivno,Rivnė,Riwne,Rovno,Rowne,Ruvne,Równe,liune,luo fu nuo,riune,rovno...",Ukraine,Rivne,N 50° 37' 23'',E 26° 13' 38'',EG,Northern Ukraine
+Eastern,50267,Derazhno,Derazhno,"Deraz'ne,Derazhne,Derazhno,Derazhnoye,Deraz’ne,Деражне",Ukraine,Rivne,N 50° 51' 51'',E 26° 2' 54',JW,Northern Ukraine
+Eastern,50268,Tuczyn,Tuczyn,"Tuchin,Tuchyn,Tuczyn,Тучин",Ukraine,Rivne,N 50° 42' 13'',E 26° 34' 21',JW,Northern Ukraine
+Eastern,50271,Shepetovka,Shepetovka,,,,,,EG,Northern Ukraine
+Eastern,50273,Mar’yanovka,Mar’yanovka,,,,,,MS,Northern Ukraine
+Eastern,50275,Novograd- Volynskiy (Zvyhyl),Novograd- Volynskiy (Zvyhyl),,,,,,MS,Northern Ukraine
+Eastern,50280,Zhitomir,Zhitomir,,,,,,MS,Northern Ukraine
+Eastern,50281,Chudnov,Chudnov,,,,,,MS,Northern Ukraine
+Eastern,50283,Pryazhev,Pryazhev,,,,,,MS,Northern Ukraine
+Eastern,50285,Chemyakhov,Chemyakhov,,,,,,DG,Northern Ukraine
+Eastern?,50287,NOT IN ATLAS LIST BUT IN COLLECTION,NOT IN ATLAS LIST BUT IN COLLECTION,,,,,,,
+Eastern,50294,Korostyshev,Korostyshev,,,,,,RS,Northern Ukraine
+Eastern,50294A,Korostyshev,Korostyshev,,,,,,RS?,Northern Ukraine
+Eastern,50296,Makarov,Makarov,,,,,,MS,Northern Ukraine
+Eastern,50297,Malin,Malin,,,,,,EG,Northern Ukraine
+Eastern,50304,Gostomel’,Gostomel’,,,,,,MS,Northern Ukraine
+Eastern,50306,Borispol’,Borispol’,,,,,,MA,Northern Ukraine
+Eastern,50312,Pereyaslav,Pereyaslav,,,,,,MS,Northern Ukraine
+Eastern,50329,Dmitriyevka,Dmitriyevka,,,,,,MS,Northern Ukraine
+Eastern,50334,Lokhvitsa,Lokhvitsa,,,,,,MS,Northern Ukraine
+Western,51062,Glehn,Glehn,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,51064,Hinsbeck,Hinsbeck,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,51066,Mülheim an der Ruhr,Mülheim an der Ruhr,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,51067,Goch,Goch,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,51068,Bocholt,Bocholt,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,51072,Meinerzhagen,Meinerzhagen,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,51073,Littfeld,Littfeld,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,51075,Lünen,Lünen,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,51087,Beckum,Beckum,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,51092,Heinebach,Heinebach,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,51093,Abterode,Abterode,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,51098,Beverungen,Beverungen,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,51099,Northeim,Northeim,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,51112,Apolda,Apolda,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,51143,Görlitz,Görlitz,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,51158,Grünberg,Grünberg,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,51166,Rawitsch,Rawitsch,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,51168,Leszno (Lissa),Leszno (Lissa),,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,51170,Kępno (Kempen),Kępno (Kempen),,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,51171,Breslau,Breslau,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,51173,Namslau,Namslau,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,51174,Jutroszyn,Jutroszyn,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,51180,Wieruszów,Wieruszów,,,,,,EG,Northern Poland
+Eastern?,51181,In blue printout only (but then crossed out),In blue printout only (but then crossed out),,,,,,,
+Eastern,51185,Złoczew,Złoczew,,,,,,MS,Northern Poland
+Eastern,51187,Kalisz,Kalisz,,,,,,MH,Northern Poland
+Eastern,51189,Poddębice,Poddębice,,,,,,MS,Northern Poland
+Eastern,51194,Łask,Łask,,,,,,MS,Northern Poland
+Eastern,51195,Bełchatów,Bełchatów,,,,,,GT,Northern Poland
+Eastern,51196,Piotrków Trybunalski,Piotrków Trybunalski,,,,,,RS,Northern Poland
+Eastern,51198,Łódź,Łódź,,,,,,MH,Northern Poland
+Eastern,51199,Brzeziny,Brzeziny,,,,,,EG,Northern Poland
+Eastern,51202,Końskie,Końskie,,,,,,EG,Northern Poland
+Eastern,51203,Szydłowiec,Szydłowiec,,,,,,MA,Northern Poland
+Eastern,51207,Skierniewice,Skierniewice,,,,,,MS,Northern Poland
+Eastern,51209,Grójec,Grójec,,,,,,GT,Northern Poland
+Eastern,51213,Józefów,Józefów,,,,,,EG,Northern Poland
+Eastern,51214,Radom,Radom,,,,,,MS,Northern Poland
+Eastern,51215,Kozienice,Kozienice,,,,,,MS,Northern Poland
+Eastern,51217,Warka,Warka,,,,,,MH,Northern Poland
+Eastern,51222,Lublin,Lublin,,,,,,MS,Northern Poland
+Eastern,51223,Łęczna,Łęczna,,,,,,EG,Northern Poland
+Eastern,51224,Kurów,Kurów,,,,,,AI,Northern Poland
+Eastern,51225,Lubartów,Lubartów,,,,,,MS?,Northern Poland
+Eastern,51228,Luków,Luków,,,,,,MH,Northern Poland
+Eastern,51229,Międzyrzec,Międzyrzec,,,,,,MH,Northern Poland
+Eastern,51232,Chełm,Chełm,,,,,,AI,Northern Poland
+Eastern,51233,Świerze,Świerze,,,,,,MH,Northern Poland
+Eastern,51237,Lomazy,Lomazy,,,,,,MH,Northern Poland
+Eastern,51238,Sławatycze,Sławatycze,,,,,,MH,Northern Poland
+Eastern,51241,Nikitichi,Nikitichi,,,,,,MS,Northern Poland
+Eastern,51243,Kowel,Kowel,,,,,,MS,Northern Poland
+Eastern,51245,Ratno,Ratno,,,,,,MS,Northern Poland
+Eastern,51246,Nujno,Nujno,,,,,,MS,Northern Poland
+Eastern,51253,Kołki,Kołki,,,,,,MS,Northern Poland
+Eastern,51258,Lubieszów,Lubieszów,,,,,,MS,Northern Poland
+Eastern,51260,Żołudsk,Żołudsk,,,,,,MS,Northern Ukraine
+Eastern,51264,Włodzimierzec,Włodzimierzec,,,,,,AH,Northern Ukraine
+Eastern,51265,Dąbrowica,Dąbrowica,,,,,,MS,Northern Ukraine
+Eastern,51283,Ovruch,Ovruch,,,,,,MH,Northern Ukraine
+Eastern,51286,Skorodnoye,Skorodnoye,,,,,,AI,Northern Ukraine
+Eastern,51287,Lelchitsy,Lelchitsy,,,,,,EG,Northern Ukraine
+Eastern,51300,Chernobyl’,Chernobyl’,,,,,,MS,Northern Ukraine
+Eastern,51301,Gornostaypol,Gornostaypol,,,,,,EG,Northern Ukraine
+Eastern,51314,Chernigov,Chernigov,,,,,,MS,Northern Ukraine
+Eastern,51322,Borzna,Borzna,,,,,,MS,Northern Ukraine
+Eastern,51323,Bakhmach,Bakhmach,,,,,,RS,Northern Ukraine
+Eastern,51331,Konotop,Konotop,,,,,,MA,Northern Ukraine
+Western,52041,s’Gravenhage,s’Gravenhage,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,52046,Amsterdam,Amsterdam,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,52055,Harderwijk,Harderwijk,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,52063,Eibergen,Eibergen,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,52065,Almelo,Almelo,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,52068,Assen,Assen,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,52083,Minden,Minden,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,52093,Hildesheim,Hildesheim,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,52094,Hannover,Hannover,,,,,,VB,"Austria, Czechoslovakia, Germany, Holland"
+Western,52102,Braunschweig,Braunschweig,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,52135,Berlin,Berlin,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,52155,Schwerin,Schwerin,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,52166,Poznań (Posen),Poznań (Posen),,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,52169,Chodziez,Chodziez,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,52173,Zagórów,Zagórów,,,,,,AI,Northern Poland
+Eastern,52177,Rogozno (Rogasen),Rogozno (Rogasen),,,,,,ML,Northern Poland
+Eastern,52180,Koło,Koło,,,,,,MS,Northern Poland
+Eastern,52181,Konin,Konin,,,,,,MH,Northern Poland
+Eastern,52184,Kleczew,Kleczew,,,,,,MH,Northern Poland
+Eastern,52185,Izbica,Izbica,,,,,,MS,Northern Poland
+Eastern,52189,Aleksandrów,Aleksandrów,,,,,,AH,Northern Poland
+Eastern,52192,Kutno,Kutno,,,,,,AI,Northern Poland
+Eastern,52193,Łowicz,Łowicz,,,,,,EG,Northern Poland
+Eastern,52195,Gostynin,Gostynin,,,,,,EG,Northern Poland
+Eastern,52196,Płock,Płock,,,,,,MS,Northern Poland
+Eastern,52197,Lipno,Lipno,,,,,,MS,Northern Poland
+Eastern,52198,Sierpc,Sierpc,,,,,,MS,Northern Poland
+Eastern,52201,Sochaczew,Sochaczew,,,,,,EG,Northern Poland
+Eastern,52202,Błonie,Błonie,,,,,,MH,Northern Poland
+Eastern,52205,Zakroczym,Zakroczym,,,,,,MH,Northern Poland
+Eastern,52207,Bodzanów,Bodzanów,,,,,,EG,Northern Poland
+Eastern,52208,Ciechanów,Ciechanów,,,,,,MH,Northern Poland
+Eastern,52210,Rożan,Rożan,,,,,,DG,Northern Poland
+Eastern,52211,Warszawa,Warszawa,,,,,,MH,Northern Poland
+Eastern,52212,Kolbiel,Kolbiel,,,,,,MH,Northern Poland
+Eastern,52213,Kałuszyn,Kałuszyn,,,,,,MH,Northern Poland
+Eastern,52214,Radzymin,Radzymin,,,,,,MH,Northern Poland
+Eastern,52215,Jadów,Jadów,,,,,,MH,Northern Poland
+Eastern,52217,Maków,Maków,,,,,,MH,Northern Poland
+Eastern,52219,Brok,Brok,,,,,,MH,Northern Poland
+Eastern,52220,Rudka,Rudka,,,,,,MH,Northern Poland
+Eastern,52221,Siedlce,Siedlce,,,,,,MH,Northern Poland
+Eastern,52223,Losice,Losice,,,,,,MH,Northern Poland
+Eastern,52224,Węgrów,Węgrów,,,,,,MH,Northern Poland
+Eastern,52225,Drohiczyn nad Bugem,Drohiczyn nad Bugem,,,,,,MH,Northern Poland
+Eastern,52228,Jabłonka Kościelna,Jabłonka Kościelna,,,,,,MH,Northern Poland
+Eastern,52229,Brańsk,Brańsk,,,,,,MH,Northern Poland
+Eastern,52231,Biała Podlaska,Biała Podlaska,,,,,,MH,Northern Poland
+Eastern,52233,Brześć,Brześć,,,,,,MH,Northern Poland
+Eastern,52235,Kleszczele,Kleszczele,,,,,,MH,Northern Poland
+Eastern,52236,Kamieniec- Litewski,Kamieniec- Litewski,,,,,,MH,Northern Poland
+Eastern,52237,Bielsk Podlaski,Bielsk Podlaski,,,,,,MH,Northern Poland
+Eastern,52242,Kobryń,Kobryń,,,,,,EG,Northern Poland
+Eastern,52244,Prużana,Prużana,,,,,,MS,Northern Poland
+Eastern,52245,Malecz,Malecz,,,,,,MS,Northern Poland
+Eastern,52249,Rożana,Rożana,,,,,,RS,Northern Poland
+Eastern,52251,Drohiczyn,Drohiczyn,,,,,,MS,Northern Poland
+Eastern,52256,Telechany,Telechany,,,,,,AH,Northern Poland
+Eastern,52258,Byteń,Byteń,,,,,,MH,Northern Poland
+Eastern,52261,Pińsk,Pińsk,,,,,,MS,Northern Poland
+Eastern,52263,Duboy,Duboy,,,,,,MS,Northern Poland
+Eastern,52268,Hancewicze,Hancewicze,,,,,,EG,Northern Poland
+Eastern,52273,Turov,Turov,,,,,,MS,Northern Poland
+Eastern,52278,Starobin,Starobin,,,,,,EG,Northern Poland
+Eastern,52279,Yushkavichi,Yushkavichi,,,,,,MS,Northern Poland
+Eastern,52282,Petrikov,Petrikov,,,,,,EG,Northern Poland
+Eastern,52283,Kopatkevichi,Kopatkevichi,,,,,,MH,Northern Poland
+Eastern,52292,Kalinkovichi,Kalinkovichi,,,,,,MS,Northern Poland
+Eastern,52294,Ozarichi,Ozarichi,,,,,,MH,Northern Poland
+Eastern,52307,Streshin,Streshin,,,,,,RS,Northern Poland
+Eastern,52308,Zhlobin,Zhlobin,,,,,,MS,Northern Poland
+Eastern,52314,Gomel’,Gomel’,,,,,,RZ,Northern Poland
+Eastern,52327,Klintsy,Klintsy,,,,,,MS,Northern Poland
+Eastern,52381,Yelets,Yelets,,,,,,EG,Northern Poland
+Western,53072,Papenburg,Papenburg,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,53074,Emden,Emden,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,53075,Aurich,Aurich,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,53096,Altona,Altona,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,53109,Lübeck,Lübeck,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,53145,Stettin,Stettin,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,53146,Gollnow,Gollnow,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,53162,Schönlanke,Schönlanke,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Western,53163,Schneidemühl,Schneidemühl,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,53175,Chojnice,Chojnice,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,53181,Bydgoszcz (Bromberg),Bydgoszcz (Bromberg),,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,53186,Grudziądz (Graudenz),Grudziądz (Graudenz),,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,53191,Dobrzyń,Dobrzyń,,,,,,EG,Northern Poland
+Western,53192,Brodnica (Strasburg),Brodnica (Strasburg),,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,53193,Żuromin,Żuromin,,,,,,DG,Northern Poland
+Eastern,53202,Mława,Mława,,,,,,MH,Northern Poland
+Eastern,53203,Chorzele,Chorzele,,,,,,MH,Northern Poland
+Western,53204,Gilgenburg,Gilgenburg,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,53211,Krasnosielc,Krasnosielc,,,,,,MH,Northern Poland
+Eastern,53212,Ostrołęka,Ostrołęka,,,,,,MH,Northern Poland
+Eastern,53215,Myszyniec,Myszyniec,,,,,,MH,Northern Poland
+Eastern,53216,Kolno,Kolno,,,,,,MH,Northern Poland
+Eastern,53221,Łomża,Łomża,,,,,,MH,Northern Poland
+Eastern,53223,Tykocin,Tykocin,,,,,,MS,Northern Belarus
+Eastern,53224,Szczuczyn,Szczuczyn,,,,,,MH,Northern Poland
+Eastern,53225,Trzcianne,Trzcianne,,,,,,EG,Northern Belarus
+Eastern,53228,Grajewo,Grajewo,,,,,,MS,Northern Poland
+Eastern,53231,Białystok,Białystok,,,,,,EG,Northern Belarus
+Eastern,53235,Sokółka,Sokółka,,,,,,MS,Lithuania
+Eastern,53236,Indura,Indura,,,,,,MS,Lithuania
+Eastern,53238,Lipsk,Lipsk,,,,,,EG,Lithuania
+Eastern,53239,Grodno,Grodno,,,,,,,Lithuania
+Eastern,53241,Brzostowica Wielka ,Brzostowica Wielka ,,,,,,MS,Lithuania
+Eastern,53243,Zelwa,Zelwa,,,,,,EG,Northern Belarus
+Eastern,53248,Ostryna,Ostryna,,,,,,MS,Lithuania
+Eastern,53249,Wasiliszki,Wasiliszki,,,,,,MS,Lithuania
+Eastern,53251,Kozłowszczyzna,Kozłowszczyzna,,,,,,MS,Northern Belarus
+Eastern,53252,Mołczadz,Mołczadz,,,,,,MS,Northern Belarus
+Eastern,53255,Dworzec,Dworzec,,,,,,MH,Northern Belarus
+Eastern,53257,Lida,Lida,,,,,,RS,Northern Belarus
+Eastern,53259,Iwje,Iwje,,,,,,MS,Northern Belarus
+Eastern,53261,Lachowicze,Lachowicze,,,,,,MS,Northern Belarus
+Eastern,53262,Nieśwież,Nieśwież,,,,,,UW,Northern Belarus
+Eastern,53264,Korelcze,Korelcze,,,,,,MS,Northern Belarus
+Eastern,53265,Stołpce,Stołpce,,,,,,MA,Northern Belarus
+Eastern,53270,Koydanovo,Koydanovo,,,,,,MS,Northern Belarus
+Eastern,53271,Romanovo,Romanovo,,,,,,EG,Northern Belarus
+Eastern,53272,Slutsk,Slutsk,,,,,,RS,Northern Belarus
+Eastern,53274,Uzda,Uzda,,,,,,MS,Northern Belarus
+Eastern,53277,Raków,Raków,,,,,,MS,Northern Belarus
+Eastern,53278,Samokhvalovichi,Samokhvalovichi,,,,,,MS,Northern Belarus
+Eastern,53279,Minsk,Minsk,,,,,,MS,Northern Belarus
+Eastern,53282,Nove-Dorogi,Nove-Dorogi,,,,,,MS,Northern Belarus
+Eastern,53286,Svisloch,Svisloch,,,,,,MS,Northern Belarus
+Eastern,53289,Berezino,Berezino,,,,,,RS,Northern Belarus
+Eastern,53291,Bobruysk,Bobruysk,,,,,,MS,Northern Belarus
+Eastern,53295,Klichev,Klichev,,,,,,RS,Northern Belarus
+Eastern,53306,Gayshin,Gayshin,,,,,,MS,Northern Belarus
+Eastern,53309,Chausy,Chausy,,,,,,MS,Northern Belarus
+Eastern,53315,Krasnopolye,Krasnopolye,,,,,,RS,Northern Belarus
+Eastern,53323,Mglin,Mglin,,,,,,RS,Northern Belarus
+Western,54161,Köslin,Köslin,,,,,,ML,"Austria, Czechoslovakia, Germany, Holland"
+Western,54181,Danzig,Danzig,,,,,,VB,"Austria, Czechoslovakia, Germany, Holland"
+Western,54208,Königsberg,Königsberg,,,,,,SL,"Austria, Czechoslovakia, Germany, Holland"
+Eastern,54222,Przerośl,Przerośl,,,,,,MS,Lithuania
+Eastern,54226,Virbalis,Virbalis,,,,,,GT,Lithuania
+Eastern,54229,Naumiestis,Naumiestis,,,,,,MS,Lithuania
+Eastern,54233,Veisiejai,Veisiejai,,,,,,MS,Lithuania
+Eastern,54234,Vilkaviškis,Vilkaviškis,,,,,,EG,Lithuania
+Eastern,54236,Prienai,Prienai,,Lithuania,Kauno,N 54° 54' 0'',N 54° 54' 0'',MS,Lithuania
+Eastern,54239,Kaunas,Kaunas,"Caunas,Couna,Gorad Kaunas,KUN,Kaounas,Kauen,Kauna,Kaunas,Kauno,Kauns,Kauņa,Kawnas,Kaŭno,Kovno,Kowno,...",,,,,MS,Lithuania
+Eastern,54241,Liškiava,Liškiava,"Lishkjava,Lishkovo,Lishkyava,Liskevos,Liskiava,Liškevos,Liškiava,Лишкява",Lithuania,,N 54° 6' 0'',E 24° 3' 0'',MS,Lithuania
+Eastern,54244,Jieznas,Jieznas,"Eznas,Iyeznas,Jeznas,Jezno,Jieznas,Yeznas,Езнас",Lithuania,,N 54° 36' 0'',E 24° 10' 0'',EG,Lithuania
+Eastern,54249,Musninkai,Musninkai,"Musniki,Musniku,Musnikų,Musninkai,Musninkaj,Musninkay,Musninku,Musninkų,Muśniki,Муснинкай",Lithuania,,N 54° 57' 0'',E 24° 51' 0'',MS,Lithuania
+Eastern,54253,Traby,Traby,"Traby,Трабы",Belarus,Grodnenskaya,N 54° 9' 31'',E 25° 54' 27'',EG,Lithuania
+Eastern,54256,Oszmiana,Oszmiana,"Ashmjany,Ashmyany,Asmena,Ašmena,Oshmjany,Oshmyana,Oshmyany,Oszmiana,Ашмяны,Ошмяны",Belarus,Grodnenskaya,N 54° 25' 15'',E 25° 56' 9'',EG,Lithuania
+Eastern,54257,Wilno,Wilno,"Bilna,Bilnious,Gorad Vil'njus,IVilnyusi,VNO,Vil'njus,Vil'no,Vil'nyus,Viln',Vilna,Vilnia,Vilnias,Viln...",Lithuania,Vilnius County,+,E 25° 16' 47'',UW,Lithuania
+Eastern,54259,Kiemieliszki,Kiemieliszki,,,,,,MS,Lithuania
+Eastern,54260,Wilejka,Wilejka,"Vileika,Vilejka,Vileyka,Vilyeyka,Wilejka,Вилейка,Вілейка",Belarus,Minsk,N 54° 29' 29'',E 26° 54' 39'',MH,Lithuania
+Eastern,54262,Wolożyn,Wolożyn,"Valozhyn,Volozhin,Volozhy'n,Volozhy’n,Wolozyn,Wołożyn,Валожын,Воложин",Belarus,Minsk,N 54° 5' 21'',E 26° 31' 35'',EG,Lithuania
+Eastern,54265,Smorgonie,Smorgonie,"Smargon',Smarhon',Smarhon’,Smorgon',Smorgone,Smorgonie,Smorgon’,Smurgainys,Смаргонь,Сморгонь",Belarus,Grodnenskaya,N 54° 28' 47'',E 26° 23' 44'',RS,Lithuania
+Eastern,54266,Kurzeniec,Kurzeniec,"Kuranec,Kuranyets,Kurenec,Kurenets,Kurzeniec,Kuzhenets,Куранец,Куренец",Belarus,Minsk,N 54° 33' 39'',E 26° 57' 30'',MS,Northern Belarus
+Eastern,54271,Radoszkowiczy,Radoszkowiczy,"Radashkovichy,Radoshkoviche,Radoshkovichi,Radoshkovichy,Radoszkowice,Radoszkowicze,Rodoszkowice,Рада...",Belarus,Minsk,N 54° 9' 19'',E 27° 14' 28'',EG,Northern Belarus
+Eastern,54273,Logojsk,Logojsk,"Lagojsk,Lahoysk,Logojsk,Logoysk,Лагойск,Логойск",Belarus,Minsk,N 54° 12' 23'',E 27° 51' 4'',EG,Eastern Galicia
+Eastern,54278,Budsław,Budsław,,,,,,MS,Lithuania
+Eastern,54279,Dokszyce,Dokszyce,,,,,,MS,Lithuania
+Eastern,54282,Borisov,Borisov,,,,,,EG,Northern Belarus
+Eastern,54284,Zembin,Zembin,,,,,,JM,Northern Belarus
+Eastern,54289,Lepel,Lepel,,,,,,EG,Northern Belarus
+Eastern,54291,Bobr,Bobr,,,,,,MS,Northern Belarus
+Eastern,54292,Sloveni,Sloveni,,,,,,EG,Northern Belarus
+Eastern,54297,Chashniki,Chashniki,,,,,,EG,Northern Belarus
+Eastern,54301,Shklov,Shklov,,,,,,EG,Northern Belarus
+Eastern,54305,Orsha,Orsha,,,,,,MS,Northern Belarus
+Eastern,54372,Tula,Tula,,,,,,MA,Northern Belarus
+Eastern,55216,Rietavas,Rietavas,,,,,,RS,Lithuania
+Eastern,55218,Gargždai,Gargždai,,,,,,EG,Lithuania
+Eastern,55221,Tauragè,Tauragè,"Gorad Taurage,Taouranke,Taurage,Taurages,Tauragie,Tauragė,Tauragės,Tauraģe,Taurogen,Tauroggen,Taurog...",Lithuania,Tauragės apskritis,N 55° 15' 8'',E 22° 17' 23'',EG,Lithuania
+Eastern,55223,Jurbarkas,Jurbarkas,,,,,,MS,Lithuania
+Eastern,55224,Kvédama,Kvédama,,,,,,MS,Lithuania
+Eastern,55226,Kražiai,Kražiai,,,,,,EG,Lithuania
+Eastern,55233,Kedainiai,Kedainiai,,,,,,EG,Lithuania
+Eastern,55236,Krakes,Krakes,,,,,,MS,Lithuania
+Eastern,55237,Siauliai,Siauliai,,,,,,AI,Lithuania
+Eastern?,55238,not in atlas but in box,not in atlas but in box,,,,,,,
+Eastern,55241,Jonava,Jonava,,,,,,MA,Lithuania
+Eastern,55244,Ramigala,Ramigala,,,,,,MS,Lithuania
+Eastern,55248,Panėvežys,Panėvežys,,,,,,EG,Lithuania
+Eastern,55249,Kupiškis,Kupiškis,,,,,,RS,Lithuania
+Eastern,55252,Molėtai,Molėtai,,,,,,EG,Lithuania
+Eastern,55254,Anykščiai,Anykščiai,,,,,,AI,Lithuania
+Eastern,55257,Šimonys,Šimonys,,,,,,MA,Lithuania
+Eastern,55258,Rokiškis,Rokiškis,,,,,,EG,Lithuania
+Eastern,55261,Święcjany Švenčionys,Święcjany Švenčionys,,,,,,MS,Lithuania
+Eastern,55263,Postawy,Postawy,,,,,,RS,Lithuania
+Eastern,55267,Zarasai (Novo-Aleksandrovsk),Zarasai (Novo-Aleksandrovsk),,,,,,MS,Lithuania
+Eastern,55268,Daugavpils (Dünaburg),Daugavpils (Dünaburg),,,,,,RS,Lithuania
+Eastern,55271,Dunilowicze,Dunilowicze,,,,,,MA,Lithuania
+Eastern,55273,Głębokie,Głębokie,,,,,,MH,Lithuania
+Eastern,55277,Krāslava,Krāslava,,,,,,RS,Lithuania
+Eastern,55277A,Krāslava,Krāslava,,,,,,RS?,Lithuania
+Eastern,55281,Kublichi,Kublichi,,,,,,MS,Northern Belarus
+Eastern,55286,Polotsk,Polotsk,,,,,,MA,Northern Belarus
+Eastern,55292,Beshenkovichi,Beshenkovichi,,,,,,MS,Northern Belarus
+Eastern,55301,Vitebsk,Vitebsk,,,,,,RS,Northern Belarus
+Eastern,55303,Kolyshki,Kolyshki,,,,,,UW,Northern Belarus
+Eastern,55311,Mikulino,Mikulino,,,,,,EG,Northern Belarus
+Eastern,55329,Belyy,Belyy,,,,,,MS,Northern Belarus
+Eastern,56214,Liepāja,Liepāja,,,,,,MS,Lithuania
+Eastern,56221,Alsėdžiai,Alsėdžiai,,,,,,,Lithuania
+Eastern,56223,Kuršėnai,Kuršėnai,,,,,,EG,Lithuania
+Eastern,56225,Saldus (Frauenburg),Saldus (Frauenburg),,,,,,EG,Courland
+Eastern,56227,Jaunmuiža (Neuhof),Jaunmuiža (Neuhof),,,,,,GT,Lithuania
+Eastern,56243,Biržai,Biržai,,,,,,MS,Lithuania
+Eastern,56244,"(near Janiszlei, Linkový, Zejmele)","(near Janiszlei, Linkový, Zejmele)",,,,,,UW,Lithuania
+Eastern,56247,Sarkan-Daugava,Sarkan-Daugava,,,,,,MH,Courland
+Eastern,56251,Pandėlys,Pandėlys,,,,,,RS,Northern Belarus
+Eastern,56253,Subata,Subata,,,,,,MS,Northern Belarus
+Eastern,56254,Jaunjelgava,Jaunjelgava,,,,,,UW,Northern Belarus
+Eastern,56256,Krustpils (Kreuzburg),Krustpils (Kreuzburg),,,,,,UW,Northern Belarus
+Eastern,56266,Viļāni,Viļāni,,,,,,EG,Northern Belarus
+Eastern,56274,Rezekne,Rezekne,,,,,,GT,Northern Belarus
+Eastern,56276,Ludza,Ludza,,,,,,MS,Northern Belarus
+Eastern,56281,Osveya,Osveya,,,,,,MS,Northern Belarus
+Eastern,56293,Nevel’,Nevel’,,,,,,MS,Northern Belarus
+Eastern,57212,Piltene,Piltene,,,,,,UW,Courland
+Eastern,57222,Talsi,Talsi,,,,,,UW,Courland
+Eastern,57401,Yaroslav,Yaroslav,,,,,,RS,Northern Belarus
+Eastern,58265,Tartu (Dorpat),Tartu (Dorpat),,,,,,EG,Courland
